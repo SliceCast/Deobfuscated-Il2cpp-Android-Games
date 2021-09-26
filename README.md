@@ -12,6 +12,12 @@ Again, these games aren't fully deobfuscated. I only managed to deobfuscate some
 
 Pixel Gun 3D was a hard one to actually de-obfuscate. Their Chinese Letters aren't ordinary. They may look normal to you, but it's not. Fully based on these Unicode Systems.
 
+# Obfuscated
+![](https://i.imgur.com/MSHfBKQ.png)
+
+# De-Obfuscated
+![](https://i.imgur.com/yazktJx.png)
+
 # Download
 [Pixel Gun 3D 21.7.0](https://github.com/SliceCast/Deobfuscated-Android-Games/releases/download/CSharp/PG3DDeobfuscation21.7.0.cs)
 
