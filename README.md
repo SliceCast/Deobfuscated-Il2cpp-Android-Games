@@ -1,8 +1,8 @@
-# Deobfuscated-Android-Games
+# Deobfuscated-IL2CPP-Android-Games
 So basically I have de-obfuscated some games. 
 The only games I have de-obfuscated is Pixel Gun 3D and Standoff 2 (old ver.)
 
-Note: These both games aren't "fully" deobfuscated. 
+Note: These IL2CPP Android games aren't "fully" deobfuscated. 
 
 Pixel Gun 3D(v21.7.0): 5,000+ methods are de-obfuscated.
 
