@@ -10,6 +10,8 @@ Standoff 2 (v0.13.x): 511 methods are de-obfuscated.
 
 Again, these games aren't fully deobfuscated. I only managed to deobfuscate some methods and made it viewable with normal names in the csharp.
 
+Pixel Gun 3D was a hard one to actually de-obfuscate. Their Chinese Letters aren't ordinary. They may look normal to you, but it's not. Fully based on these Unicode Systems.
+
 # Download
 [Pixel Gun 3D 21.7.0](https://github.com/SliceCast/Deobfuscated-Android-Games/releases/download/CSharp/PG3DDeobfuscation21.7.0.cs)
 
